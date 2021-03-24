@@ -2,7 +2,7 @@
 
 Solve the safe area issue in iOS10.0.
 
-'''objc
+'''
 -(void) replaceConstraintsRelativeToLayoutGuild;
 
 - (void)viewDidLoad {
